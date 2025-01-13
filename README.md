@@ -35,6 +35,4 @@ Front-End Developer proficient in HTML, CSS, JavaScript, and React, with experie
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Maikey28
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
