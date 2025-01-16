@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: akshatpal2078@gmail.com
 # 💫 About Me:
-Front-End Developer proficient in HTML, CSS, JavaScript, and React, with experience in building responsive and user-friendly web applications. Driven by a passion for continuous learning and growth, seeking opportunities to contribute technical expertise toward organizational success while honing skills in a dynamic environment.
+Versatile MERN Stack Developer with expertise in building dynamic, scalable web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in crafting responsive user interfaces, optimizing performance, and developing seamless APIs. Known for solving complex challenges, collaborating effectively in teams, and delivering innovative solutions that drive results
 
 
 ## 🌐 Socials:
